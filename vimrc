@@ -61,6 +61,9 @@ Plug 'fatih/vim-go'
 Plug 'StanAngeloff/php.vim'
 Plug 'moll/vim-node'
 Plug 'tpope/vim-fireplace'
+Plug 'tpope/vim-surround'
+Plug 'ivanov/vim-ipython'
+Plug 'davidhalter/jedi-vim'
 call plug#end()
 
 " Colors
