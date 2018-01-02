@@ -64,11 +64,12 @@ Plug 'tpope/vim-fireplace'
 Plug 'tpope/vim-surround'
 Plug 'ivanov/vim-ipython'
 Plug 'davidhalter/jedi-vim'
+Plug 'flazz/vim-colorschemes'
 call plug#end()
 
 " Colors
 set background=dark
-colorscheme cobalt
+colorscheme molokai
 
 " Ignore
 set wildignore+=*/tmp/*,*/node_modules/*,*.so,*.swp,*.zip
